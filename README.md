@@ -7,7 +7,7 @@ classes = ["car", "person", "traffic sign", "obstacle", "bicycle"]
 
 -LZURoadDatasSet
 
----Annotations
+---Annotations  /* xml文件 */
 
 ---gentxt.py  /* 生成train.txt、val.txt */
 
