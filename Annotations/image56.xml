@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>image56.jpeg</filename>
+	<path>/Users/chenzhj/Desktop/YOLOV3/darknet/scripts/VOCdevkit/VOC2018/JPEGImages/image56.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4032</width>
+		<height>3024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bicycle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>660</xmin>
+			<ymin>868</ymin>
+			<xmax>1372</xmax>
+			<ymax>1614</ymax>
+		</bndbox>
+	</object>
+</annotation>

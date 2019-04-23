@@ -1,0 +1,50 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>image61.jpeg</filename>
+	<path>/Users/chenzhj/Desktop/YOLOV3/darknet/scripts/VOCdevkit/VOC2018/JPEGImages/image61.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4032</width>
+		<height>3024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>traffic sign</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3243</xmin>
+			<ymin>810</ymin>
+			<xmax>3622</xmax>
+			<ymax>1093</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>traffic sign</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3331</xmin>
+			<ymin>1060</ymin>
+			<xmax>3610</xmax>
+			<ymax>1305</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>traffic sign</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3839</xmin>
+			<ymin>801</ymin>
+			<xmax>4032</xmax>
+			<ymax>1270</ymax>
+		</bndbox>
+	</object>
+</annotation>
