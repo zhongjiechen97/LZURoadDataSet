@@ -9,8 +9,7 @@ classes = ["car", "person", "traffic sign", "obstacle", "bicycle"]
 
 ---Annotations
 
----gentxt.py  
-/* 生成train.txt、val.txt */
+---gentxt.py  /* 生成train.txt、val.txt */
 
 ---ImageSets
 
