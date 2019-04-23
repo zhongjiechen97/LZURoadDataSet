@@ -9,6 +9,9 @@ classes = ["car", "person", "traffic sign", "obstacle", "bicycle"]
 
 ---Annotations
 
+---gentxt.py  
+/* 生成train.txt、val.txt */
+
 ---ImageSets
 
 -----Main
@@ -18,9 +21,6 @@ classes = ["car", "person", "traffic sign", "obstacle", "bicycle"]
 -------val.txt
 
 ---JPEGImages 
-
 /* 百度网盘地址：链接:https://pan.baidu.com/s/12ZOSZr2dtcWdcWCJmAvUwg  密码:yjib */
 
----gentxt.py  
 
-/* 生成train.txt、val.txt */
