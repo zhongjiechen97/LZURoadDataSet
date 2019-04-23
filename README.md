@@ -19,8 +19,8 @@ classes = ["car", "person", "traffic sign", "obstacle", "bicycle"]
 
 ---JPEGImages 
 
-/*百度网盘地址：链接:https://pan.baidu.com/s/12ZOSZr2dtcWdcWCJmAvUwg  密码:yjib*/
+/* 百度网盘地址：链接:https://pan.baidu.com/s/12ZOSZr2dtcWdcWCJmAvUwg  密码:yjib */
 
 ---gentxt.py  
 
-/*生成train.txt、val.txt*/
+/* 生成train.txt、val.txt */
